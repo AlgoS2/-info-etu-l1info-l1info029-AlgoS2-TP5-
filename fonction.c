@@ -61,7 +61,3 @@ int tourJeu(int nbMis, int nbCan){
 		}	
 	}
 }
-
-int main(){
-	return 0;
-}
